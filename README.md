@@ -20,7 +20,7 @@ The model has the ability to:
 * The model may not be able to tell the difference between someone holding their breath and someone drowning 
 * The model does not contain a motion detector.
 
-## Watch the AquaSentinal Trailor!
+## Watch the AquaSentinal Trailer!
 https://www.youtube.com/watch?v=WStwgqxlY9s
 
 ## Aquasentinal Final Presentation!
