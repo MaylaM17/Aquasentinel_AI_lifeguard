@@ -23,6 +23,13 @@ The model has the ability to:
 ## Watch the AquaSentinal Trailor!
 https://www.youtube.com/watch?v=WStwgqxlY9s
 
+## Aquasentinal Final Presentation!
+https://docs.google.com/presentation/d/1GPyF-XM9DmJAU4iZbh9b-sZdzZlNfhRIiOcBZ-ugYkE/edit?usp=sharing
+
+## AI camp Presentation link
+https://www.youtube.com/watch?v=QkKLWSG9wGM&t=5s
+
+
 
 
 
